@@ -1,5 +1,5 @@
 
-var clubId = 3447;
+var clubId = 3440;
 var clubName = "Volleybalvereniging Spaarnestad";
 var clubLink = "https://www.sponsorkliks.com/winkels.php?club=3440";
 var excludes = ["sponsorkliks.com", "ideal"];
