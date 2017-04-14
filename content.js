@@ -1,7 +1,7 @@
 
 var clubId = 3447;
-var clubName = "Volleybalvereniging Harabmee";
-var clubLink = "https://www.sponsorkliks.com/winkels.php?club=3447";
+var clubName = "Volleybalvereniging Spaarnestad";
+var clubLink = "https://www.sponsorkliks.com/winkels.php?club=3440";
 var excludes = ["sponsorkliks.com", "ideal"];
 var sponsorkliksLink = "http://www.sponsorkliks.com/link.php?club={club_id}&shop_id={shop_id}&shop={shop_name}";
 

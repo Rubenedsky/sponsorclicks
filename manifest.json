@@ -1,11 +1,11 @@
 
 {
-  "author": "Steffie Heesakkers",
+  "author": "Ruben Wester",
   "content_scripts": [ {
     "js": [ "shops.js", "content.js" ],
     "matches": [ "http://*/*", "https://*/*" ]
   } ],
-  "description": "Geld verdienen voor Harambee via Sponsorkliks!",
+  "description": "Geld verdienen voor Spaarnestad Volleybalvereniging via Sponsorkliks!",
   "icons": {
     "16": "icon.png",
     "48": "icon.png",
