@@ -5,7 +5,7 @@
     "js": [ "shops.js", "content.js" ],
     "matches": [ "http://*/*", "https://*/*" ]
   } ],
-  "description": "Geld verdienen voor Spaarnestad Volleybalvereniging via Sponsorkliks!",
+  "description": "Geld verdienen voor VC Spaarnestad Volleybalvereniging via Sponsorkliks!",
   "icons": {
     "16": "icon.png",
     "48": "icon.png",
@@ -13,7 +13,7 @@
 
   },
   "manifest_version": 2,
-  "name": "Volleybalvereniging VC Spaarnestad Sponsorkliks",
+  "name": "Volleybalvereniging Spaarnestad Sponsorkliks",
   "permissions": [ "tabs", "http://*/*", "https://*/*" ],
   "update_url": "https://clients2.google.com/service/update2/crx",
   "version": "1.42"
